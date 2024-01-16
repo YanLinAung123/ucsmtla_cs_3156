@@ -4,5 +4,5 @@
     asort($ceu);
 
     foreach($ceu as $country=>$capital){
-        echo "The Capital of $country is $capital";
+        echo "The Capital of $country is $capital <br>";
     }
